@@ -1,7 +1,9 @@
 # Climate-Informed Flood Risk Assessment for Papua New Guinea
 
 ## Project Overview
-This repository presents a comprehensive geospatial analysis of riverine flood exposure in Papua New Guinea (PNG) at the Local-Level Government (LLG) and provincial levels. Using high-resolution population data and climate-driven flood projections under the RCP 8.5 scenario, the analysis identifies vulnerable populations and quantifies exposure metrics to support disaster risk reduction and climate adaptation planning.
+This project provides a comprehensive geospatial analysis of riverine flood exposure in Papua New Guinea (PNG) at the Local-Level Government (LLG) and provincial levels. Using high-resolution population data and climate-driven flood projections under RCP 8.5 scenarios, the analysis identifies vulnerable populations and quantifies exposure metrics.
+
+**Primary Purpose**: Support project planning and resource allocation by enabling **inter-provincial comparison of riverine flood exposure**. Results inform decisions on which provinces to prioritize for flood mitigation infrastructure, early warning systems, and climate adaptation programs.
 
 ### Key Findings
 - **660,607** people exposed to riverine flood risk nationally (25-year return period, 2030)  
