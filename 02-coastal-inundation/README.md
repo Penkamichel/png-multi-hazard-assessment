@@ -82,8 +82,7 @@ This project analyzes population exposure to coastal inundation in Papua New Gui
 | **Exposure Ratio** | Proportion of provincial population in LECZ | Compare relative vulnerability (normalized by population) |
 | **Exposure Density** | Population density within LECZ (people/km²) | Assess concentration of exposure in coastal zones |
 
-## Result Map
-<img width="1279" height="820" alt="image" src="https://github.com/user-attachments/assets/8cc9eefd-8ff7-4359-860f-4a6cc18cbe92" />
+
 ---
 
 ## Important Limitations
@@ -190,6 +189,9 @@ This project analyzes population exposure to coastal inundation in Papua New Gui
 - **Provincial CSV**: 22 records with aggregated statistics and rankings
 - **Interactive map**: Choropleth visualization with dynamic legend
 - **GEE Script**: Fully documented, reproducible code
+
+### Result Map
+<img width="1279" height="820" alt="image" src="https://github.com/user-attachments/assets/8cc9eefd-8ff7-4359-860f-4a6cc18cbe92" />
 
 ---
 
