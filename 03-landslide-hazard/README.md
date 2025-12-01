@@ -19,9 +19,6 @@ This project analyzes population exposure to landslide hazards in Papua New Guin
   4. Enga Province – 4.02
   5. Hela Province – 3.69
 
-## Result
-<img width="1277" height="880" alt="image" src="https://github.com/user-attachments/assets/0483d07b-abf5-4b73-9ce2-f98c21820364" />
-
 
 
 ---
@@ -109,6 +106,9 @@ This project analyzes population exposure to landslide hazards in Papua New Guin
 | **Risk Score** | Weighted average exposure (1-4 scale) | Compare overall landslide exposure across provinces |
 | **Provincial Avg Risk Score** | Mean LLG risk scores in province | Rank provinces for prioritization |
 
+
+## Result Map
+<img width="1277" height="880" alt="image" src="https://github.com/user-attachments/assets/0483d07b-abf5-4b73-9ce2-f98c21820364" />
 ---
 
 ## Important Limitations
