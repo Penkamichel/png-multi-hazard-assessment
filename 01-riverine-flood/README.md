@@ -83,22 +83,6 @@ This repository presents a comprehensive geospatial analysis of riverine flood e
 - **Google Earth Engine (GEE)** – JavaScript API  
 - Computational scale: **>10¹³ pixels**
 
-## Code Structure
-```javascript
-CONFIG = {
-  scale: 30,
-  maxPixels: 1e13,
-  palettes: {...},
-  exportFolder: '...'
-};
-// Modular functions:
-// - loadCountryBoundary()
-// - loadPopulationData()
-// - loadFloodData()
-// - calculateLLGStatistics()
-// - aggregateToProvinceLevel()
-// - createExposureRatioRaster()
-
 ## Features
 - Robust null handling  
 - Zero-division safeguards  
