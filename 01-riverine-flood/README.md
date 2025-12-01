@@ -15,8 +15,6 @@ This project provides a comprehensive geospatial analysis of riverine flood expo
   4. Western (16.4%)  
   5. West New Britain (16.2%)
  
-## Results
-<img width="1275" height="865" alt="image" src="https://github.com/user-attachments/assets/da1c172f-34dd-47ed-8689-1f22d087aa33" />
 
 
 ---
@@ -81,6 +79,7 @@ This project provides a comprehensive geospatial analysis of riverine flood expo
 | **Exposure Density** | Exposed population ÷ Flood area (km²) |
 | **Flood Area** | Σ flooded pixels × 900 m² |
 
+
 ---
 
 ## Technical Implementation
@@ -100,9 +99,9 @@ This project provides a comprehensive geospatial analysis of riverine flood expo
 ## Results
 
 ### National Summary
-- **Total population analyzed:** ~9 million  
+- **Total population analyzed:** 10~ million  
 - **Exposed population:** 660,607  
-- **National exposure ratio:** ~7.3%  
+- **National exposure ratio:** ~6.6%  
 
 ### Provincial Rankings (Top 5)
 
@@ -119,6 +118,10 @@ This project provides a comprehensive geospatial analysis of riverine flood expo
 - **CSV:** 22 provincial records  
 - **Maps:** Choropleths of flood exposure  
 - **Legend panels:** dynamic top-province ranking  
+
+### Result Map
+<img width="1275" height="865" alt="image" src="https://github.com/user-attachments/assets/da1c172f-34dd-47ed-8689-1f22d087aa33" />
+
 
 ---
 
