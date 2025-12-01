@@ -107,8 +107,6 @@ This project analyzes population exposure to landslide hazards in Papua New Guin
 | **Provincial Avg Risk Score** | Mean LLG risk scores in province | Rank provinces for prioritization |
 
 
-## Result Map
-<img width="1277" height="880" alt="image" src="https://github.com/user-attachments/assets/0483d07b-abf5-4b73-9ce2-f98c21820364" />
 ---
 
 ## Important Limitations
@@ -231,6 +229,9 @@ This project analyzes population exposure to landslide hazards in Papua New Guin
 - **Interactive map**: Choropleth visualization showing risk scores
 - **GEE Script**: Fully documented, reproducible code
 
+
+### Result Map
+<img width="1277" height="880" alt="image" src="https://github.com/user-attachments/assets/0483d07b-abf5-4b73-9ce2-f98c21820364" />
 ---
 
 ## Applications for Project Planning
