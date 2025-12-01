@@ -176,13 +176,13 @@ This project analyzes population exposure to coastal inundation in Papua New Gui
 
 ### Provincial Rankings by Exposure Ratio
 
-| Rank | Province | Exposure Ratio | Exposed Population | Implication for Project Planning |
-|------|----------|----------------|-------------------|----------------------------------|
-| 1 | Gulf | 29.5% | ~41,000 | **Highest priority**: Nearly 1 in 3 residents in LECZ |
-| 2 | Manus | 28.1% | ~16,000 | **High priority**: Island province with limited alternatives |
-| 3 | Milne Bay | 21.2% | ~57,000 | **High priority**: Largest exposed population in top 5 |
-| 4 | Central | 16.4% | ~44,000 | **Medium-high priority**: Proximity to capital Port Moresby |
-| 5 | Western | 14.4% | ~28,000 | **Medium priority**: Large land area, moderate exposure |
+| Rank | Province | Exposure Ratio | Exposed Population |
+|------|----------|----------------|-------------------|
+| 1 | Gulf | 29.5% | ~41,000 |
+| 2 | Manus | 28.1% | ~16,000 |
+| 3 | Milne Bay | 21.2% | ~57,000 |
+| 4 | Central | 16.4% | ~44,000 |
+| 5 | Western | 14.4% | ~28,000 |
 
 ### Outputs
 - **LLG-level CSV**: 326 records with population, area, and exposure metrics
