@@ -11,7 +11,7 @@ Professional geospatial portfolio: Multi-hazard climate risk assessment for Papu
 | **Landslide Risk** | NGI Global Model | [Details](03-landslide-hazard/) |
 
 
-## Live Demos
+## Google Earth Engine
 - [Riverine Flood](https://code.earthengine.google.com/a2f6f41975790496710c0c1f36df8ce1)
 - [Coastal Exposure](https://code.earthengine.google.com/d254553746b6a1174ac626eee867fc52)
 - [Landslide Risk](https://code.earthengine.google.com/72a5ccc40ee27a68fd62ab396d98caec)
