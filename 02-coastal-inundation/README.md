@@ -168,8 +168,8 @@ This project analyzes population exposure to coastal inundation in Papua New Gui
 ## Results
 
 ### National Summary
-- **Total Population**: ~9 million
-- **Exposed Population**: 414,808 (4.6%)
+- **Total Population**: 10~ million
+- **Exposed Population**: 414,808 (4.1%)
 - **Provinces Analyzed**: 22
 
 ### Provincial Rankings by Exposure Ratio
