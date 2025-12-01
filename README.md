@@ -12,6 +12,6 @@ Professional geospatial portfolio: Multi-hazard climate risk assessment for Papu
 
 
 ## Google Earth Engine
-- [Riverine Flood](https://code.earthengine.google.com/a2f6f41975790496710c0c1f36df8ce1)
-- [Coastal Exposure](https://code.earthengine.google.com/d254553746b6a1174ac626eee867fc52)
-- [Landslide Risk](https://code.earthengine.google.com/72a5ccc40ee27a68fd62ab396d98caec)
+- [PNG Riverine Flood Exposure](https://code.earthengine.google.com/a2f6f41975790496710c0c1f36df8ce1)
+- [PNG Coastal Inundation Exposure](https://code.earthengine.google.com/d254553746b6a1174ac626eee867fc52)
+- [PNG Landslide Risk](https://code.earthengine.google.com/72a5ccc40ee27a68fd62ab396d98caec)
