@@ -13,7 +13,11 @@ This project provides a comprehensive geospatial analysis of riverine flood expo
   2. East Sepik (27.8%)  
   3. Gulf (23.5%)  
   4. Western (16.4%)  
-  5. West New Britain (16.2%)  
+  5. West New Britain (16.2%)
+ 
+## Results
+<img width="1275" height="865" alt="image" src="https://github.com/user-attachments/assets/da1c172f-34dd-47ed-8689-1f22d087aa33" />
+
 
 ---
 
