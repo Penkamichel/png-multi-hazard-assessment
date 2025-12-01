@@ -201,10 +201,10 @@ This project analyzes population exposure to landslide hazards in Papua New Guin
 ## Results
 
 ### National Summary
-- **Total Population**: ~9 million
-- **Low Risk**: 749,133 people (8.3%)
-- **Medium Risk**: 707,992 people (7.9%)
-- **High Risk**: 31,774 people (0.4%)
+- **Total Population**: 10~ million
+- **Low Risk**: 749,133 people (7.5%)
+- **Medium Risk**: 707,992 people (7.1%)
+- **High Risk**: 31,774 people (0.3%)
 - **Very High Risk**: 599 people (<0.1%)
 - **Total Exposed**: ~1.49 million people (16.6%)
 
