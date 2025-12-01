@@ -79,11 +79,11 @@ This repository presents a comprehensive geospatial analysis of riverine flood e
 
 ## Technical Implementation
 
-### Platform
+## Platform
 - **Google Earth Engine (GEE)** – JavaScript API  
 - Computational scale: **>10¹³ pixels**
 
-### Code Structure
+## Code Structure
 ```javascript
 CONFIG = {
   scale: 30,
